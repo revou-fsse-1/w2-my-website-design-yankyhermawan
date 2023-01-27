@@ -36,10 +36,12 @@ Contoh desain untuk website top up voucher game
 
 ![Figma Landing Page 1](images/FIGMA-LANDING_PAGE_1.png)
 
-![Figma Landing Page 2](images/FIGMA-LANDING_PAGE_2.png)
-
 ![Figma Shop](images/FIGMA-SHOP.png)
 
 ![Figma Login](images/FIGMA-LOGIN.png)
 
 ![Figma Sign Up](images/FIGMA-SIGN_UP.png)
+
+![Figma Confirm Payment](images/FIGMA-CONFIRM_PAYMENT.png)
+
+![Figma Payment Success](images/FIGMA-PAYMENT_SUCCESS.png)
