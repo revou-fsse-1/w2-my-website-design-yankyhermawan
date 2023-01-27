@@ -4,6 +4,13 @@ Week #2 Assignment
 ## Description
 
 Contoh desain untuk website top up voucher game
+<hr>
+
+## Inspiration
+
+[Codashop](https://www.codashop.com/id-id)
+
+[UniPin](https://www.unipin.com/)
 
 <h1>URL</h1> 
 
